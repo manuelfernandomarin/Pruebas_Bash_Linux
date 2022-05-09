@@ -1,0 +1,18 @@
+
+From page Trello
+6-May-2022
+
+Ejercucios de Bash
+https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_Exercise_1_Solutions.html
+
+Video; Beginner's Guide to the Bash Terminal
+https://www.youtube.com/watch?v=oxuRxtrO2Ag
+
+Video Command Line Full course: Beginners to Expert, Bash Command Line Tutorials
+https://www.youtube.com/watch?v=2PGnYjbYuUo&t=1s&pp=ugMICgJlcxABGAE%3D
+
+Video Bash Scripting Full Course 3 Hours
+https://www.youtube.com/watch?v=e7BufAVwDiM&pp=ugMICgJlcxABGAE%3D
+
+Video Write Your Own Bash Scripts for Automation [Tutorial]
+https://www.youtube.com/watch?v=PPQ8m8xQAs8&pp=ugMICgJlcxABGAE%3D
